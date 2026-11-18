@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Preetam Ghosh 👋
 
-<!--
-**preetamghoshDA/preetamghoshDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | Power BI Developer**
 
-Here are some ideas to get you started:
+Data professional with 4+ years of experience in enterprise applications, data workflows and business intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+- 📊 Power BI, DAX and Power Query
+- 🗄️ SQL Server, MySQL and BigQuery
+- 🐍 Python for data analysis
+- ⚙️ ETL automation and data modelling
+
+### Featured Projects
+Coming soon! I'm currently building my Power BI portfolio.
+
+### Connect with me
+- [LinkedIn](https://www.linkedin.com/in/preetam-ghosh-8b8707145/)
+- [GitHub](https://github.com/preetamghoshDA)
